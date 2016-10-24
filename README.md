@@ -3,8 +3,11 @@ This script will temporarily change your Mac address on MacOS (Until you reboot 
 
 How to use:
 Download the script - git clone https://github.com/chris1000/MacOSMacSpoofer.git (You must have git installed)
+
 Make the script executable - chmod a+x spoofmac
+
 Execute - bash ./spoofmac (If it does not work the first time, run it again or try moving the file to /usr/local/bin and running it again)
+
 Enter the password for your Mac
 
 ##Extra
