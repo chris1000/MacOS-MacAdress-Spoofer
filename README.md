@@ -13,5 +13,7 @@ Enter the password for your Mac
 ##Extra
 Move the file to /usr/local/bin that way it can be executed - cp spoofmac /usr/local/bin/ (To execute the file, simply run: bash spoofmac and enter your password
 
+After changing your Mac Adress, you can check for the change by running "ifconfig en0 | grep ether" in terminal
+
 ##Note
 After running this script you will notice your WI-FI may disconnect this is perfectly normal, simply turn your WI-FI off and back on
