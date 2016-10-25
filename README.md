@@ -1,4 +1,4 @@
-# MacOSMacSpoofer
+# MacOS-MacAdress-Spoofer
 This script will temporarily change your Mac address on MacOS (Until you reboot your Machine)
 
 How to use:
